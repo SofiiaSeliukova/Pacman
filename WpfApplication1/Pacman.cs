@@ -12,7 +12,7 @@ namespace WpfApplication1
         public Pacman(Field field, Point currentPoint, int width, int height)
             : base(currentPoint, width, height,field)
 		{
-			
+			  
 		}
 
         public override void Move()
